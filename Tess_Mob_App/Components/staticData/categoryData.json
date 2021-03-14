@@ -1,0 +1,49 @@
+ {
+     "DATA" : [
+        {
+            "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+            "title": "Daily Needs",
+            "icon":"faShoppingBag"
+        },
+        {
+            "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+            "title": "Ration",
+            "icon": "faCalendarAlt"
+        },
+        {
+            "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+            "title": "Hardware",
+            "icon": "faGavel"
+        },
+        {
+            "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+            "title": "Groceries",
+            "icon": "faShoppingCart"
+        },
+        {
+            "id": "58694a0f-3da1-7363-bd96-145571e29d72",
+            "title": "Electronics",
+            "icon": "faLaptop"
+        },
+        { 
+            "id": "58694a0f-3da1-471f-5722-145571e29d72",
+            "title": "Bakery",
+            "icon": "faBirthdayCake"
+        },
+        {
+            "id": "58694a0f-3da1-471f-9892-145571e29d72",
+            "title": "Courier Services",
+            "icon": "faMailBulk"
+        },
+        {
+            "id": "58694a0f-263y-471f-bd96-145571e29d72",
+            "title": "Printing Services",
+            "icon": "faPrint"
+        },
+        { 
+            "id": "58694a0f-7263-471f-bd96-145571e29d72",
+            "title": "Automobiles",
+            "icon": "faCar"
+        }
+    ]
+}

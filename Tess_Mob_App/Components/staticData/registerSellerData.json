@@ -1,0 +1,50 @@
+{
+    "days": [
+        {
+            "id": "sunday",
+            "name": "Sunday"
+        },
+        {
+            "id": "monday",
+            "name": "Monday"                 
+        },
+        {
+            "id": "tuesday",
+            "name": "Tuesday"
+        },
+        {
+            "id": "wednesday",
+            "name": "Wednesday"
+        },
+        {
+            "id": "thursday",
+            "name": "Thursday"
+        },
+        {
+            "id": "friday",
+            "name": "Friday"
+        },
+        {
+            "id": "saturday",
+            "name": "Saturday"
+        }
+    ],
+    "category": [
+        {
+            "id": "Hardware",
+            "name": "Hardware"
+        },
+        {
+            "id": "Daily Needs",
+            "name": "Daily Needs"                 
+        },
+        {
+            "id": "Electricals",
+            "name": "Electricals"
+        },
+        {
+            "id": "Clothing",
+            "name": "Clothing"
+        }
+    ]
+}
